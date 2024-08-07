@@ -9,7 +9,7 @@ import Skills from './components/Skills/Skills'
 import Experience from './components/Experience/Experience'
 import Work from './components/Work/Work'
 // import OtherWork from './components/OtherWork/OtherWork';
-import ContactMe from './components/Contact Me/ContactMe'
+// import ContactMe from './components/Contact Me/ContactMe'
 import { BrowserRouter as Router } from 'react-router-dom'
 import Aos from 'aos'
 import Stars from './components/Stars/Stars'
